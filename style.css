@@ -17,7 +17,7 @@ h3,h4,h5{
     font-family: 'Montserrat', sans-serif;
     line-height: 1.5em;
     margin: 1em;
-}
+} 
 body{
     text-align: center;
     line-height: 1.65em;
@@ -59,7 +59,7 @@ button{
     border-radius: 200px;
 }
 img{
-    width: 280px;
+    width: 100%;
     
    
 }
@@ -75,9 +75,9 @@ h2{
     padding: 1em;
 }
 
-#bordertime1{
-    border: 1px solid black;
-
+#bordertime1 , #bordertime2 , #bordertime3{
+    border: 1px solid rgb(95, 89, 89);
+  
 }
 a{
     color: white;
@@ -85,3 +85,6 @@ a{
 label{
     color: white;
 }
+#masterID {
+    margin: 13%;
+    }
