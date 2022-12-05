@@ -49,6 +49,8 @@ button{
 }
 .black{
     background-color: black;
+    padding: 1%;
+    text-align: left;
 }
 #logo{
     width: 120px;
@@ -87,7 +89,4 @@ label{
 }
 #masterID {
     margin: 13%;
-    }
-    .pem{
-        font-style: italic;
     }
